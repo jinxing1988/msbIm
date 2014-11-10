@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 	}
 
 	/**
-	 * A placeholder fragment containing a simple view.
+	 * A placeholder fragment containing a simple view.1
 	 */
 	public static class PlaceholderFragment extends Fragment {
 
